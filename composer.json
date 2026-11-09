@@ -1,11 +1,11 @@
 {
     "name": "grinet/notfoundcode",
     "description": "Grinet NotFoundCode is a Magento 2 module that allows you to change the default 404 HTTP status code to a different one (such as 410) for SEO purposes.",
-    "keywords": ["Magento2", "Seo", "404", "410", "Not Found"],
+    "keywords": ["Magento2", "Seo", "404", "410", "Not Found", "mage-os", "mageos"],
     "require": {
 		"magento/module-directory": "100.*"
 	},
-    "version": "1.0.0",
+    "version": "1.0.1",
     "type": "magento2-module",
     "license": [
         "OSL-3.0",
